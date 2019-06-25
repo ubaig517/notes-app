@@ -1,2 +1,0 @@
-This file was created by Node.js!
-This file has been appended using Node.js
